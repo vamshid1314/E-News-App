@@ -51,4 +51,4 @@ Ensure you have the following installed:
    - Flutter Documentation
 
 **🤝 Contributing**
-Feel free to fork the repository and submit pull requests if you'd like to contribute. Please follow the existing coding style and guidelines for consistency.
+- Feel free to fork the repository and submit pull requests if you'd like to contribute. Please follow the existing coding style and guidelines for consistency.
