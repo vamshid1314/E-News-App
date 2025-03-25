@@ -31,6 +31,7 @@ class _HeadLinesState extends State<HeadLines> {
         borderRadius: BorderRadius.circular(20),
       ),
       elevation: 5,
+      clipBehavior: Clip.hardEdge,
       child: GestureDetector(
         onTap: (){
           Map<String, dynamic> news = {

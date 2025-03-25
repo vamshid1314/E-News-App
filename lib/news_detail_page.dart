@@ -61,7 +61,7 @@ class NewsDetailPage extends StatelessWidget{
                       ),
                     ),
                   ),
-                  SizedBox(width: 190),
+                  Spacer(flex:3),
                   Expanded(
                       child: Text(
                         news['publisher'] ?? "Vamshi",
